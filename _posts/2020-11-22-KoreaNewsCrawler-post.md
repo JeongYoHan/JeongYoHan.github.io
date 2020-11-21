@@ -23,3 +23,12 @@ set_date_range(startyear, startmonth, endyear, endmonth)
 
 start()
 이 메서드는 크롤링 실행 메서드입니다.
+
+```phython
+from korea_news_crawler.articlecrawler import ArticleCrawler
+
+Crawler = ArticleCrawler()  
+Crawler.set_category("정치", "IT과학", "economy")  
+Crawler.set_date_range(2017, 1, 2018, 4)  
+Crawler.start()
+```
