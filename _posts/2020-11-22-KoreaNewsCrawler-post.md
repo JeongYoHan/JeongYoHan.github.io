@@ -41,7 +41,7 @@ Crawler.start()
  
  
 
-![image1]https://user-images.githubusercontent.com/72732167/99887668-703b2c80-2c89-11eb-800e-36693ee1f001.png
+![image1]https://github.com/20-2-SKKU-OSS/2020-2-OSS-11/blob/gh-pages/_img/article_result.PNG
 
 
 ![sport_resultimg]https://github.com/20-2-SKKU-OSS/2020-2-OSS-11/blob/gh-pages/_img/sport_resultimg.PNG
