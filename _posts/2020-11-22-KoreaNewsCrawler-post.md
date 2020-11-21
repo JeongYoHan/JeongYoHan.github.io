@@ -34,9 +34,9 @@ Crawler.set_date_range(2017, 1, 2018, 4)
 Crawler.start()
 ```
 
-결과
+ 실행 결과
 
 
-https://github.com/20-2-SKKU-OSS/2020-2-OSS-11/blob/gh-pages/_img/article_result.PNG
-https://github.com/20-2-SKKU-OSS/2020-2-OSS-11/blob/gh-pages/_img/sport_resultimg.PNG
+![article_result]https://github.com/20-2-SKKU-OSS/2020-2-OSS-11/blob/gh-pages/_img/article_result.PNG
+![sport_resultimg]https://github.com/20-2-SKKU-OSS/2020-2-OSS-11/blob/gh-pages/_img/sport_resultimg.PNG
 
