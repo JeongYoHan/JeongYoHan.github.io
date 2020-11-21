@@ -48,4 +48,11 @@ Crawler.start()
 [result2]: https://github.com/20-2-SKKU-OSS/2020-2-OSS-11/blob/gh-pages/_img/sport_resultimg.PNG
 
 
-다음 링크들과 같이 
+다음 이미지들과 같이 colum 값들이 잘 정렬된 모습을 볼 수 있다.
+
+
+
+
+출처
+
+https://github.com/lumyjuwon/KoreaNewsCrawler
