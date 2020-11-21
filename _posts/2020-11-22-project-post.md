@@ -1,7 +1,7 @@
 ---
 layout: post
 title: KoreanNewsCrawler 프로젝트에 관하여
-description: 프로젝트에 관한 내용
+description: 프로젝트에 관한 내용들
 date:   2020-11-22 
 
 ---
