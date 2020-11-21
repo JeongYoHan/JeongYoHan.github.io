@@ -39,8 +39,7 @@ Crawler.start()
 
  실행 결과
  
- [result1]
- [result2]
+  [result1]    [result2]
 
 [result1]: https://github.com/20-2-SKKU-OSS/2020-2-OSS-11/blob/gh-pages/_img/article_result.PNG
 
@@ -55,4 +54,5 @@ Crawler.start()
 
 출처
 
-https://github.com/lumyjuwon/KoreaNewsCrawler
+[출처]
+[출처]: https://github.com/lumyjuwon/KoreaNewsCrawler
