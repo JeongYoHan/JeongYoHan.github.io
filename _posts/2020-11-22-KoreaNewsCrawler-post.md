@@ -39,10 +39,13 @@ Crawler.start()
 
  실행 결과
  
- 
+ [result1]
+ [result2]
 
-![image1](https://github.com/20-2-SKKU-OSS/2020-2-OSS-11/blob/gh-pages/_img/article_result.PNG)
+[result1]: https://github.com/20-2-SKKU-OSS/2020-2-OSS-11/blob/gh-pages/_img/article_result.PNG
 
 
-![image2](https://github.com/20-2-SKKU-OSS/2020-2-OSS-11/blob/gh-pages/_img/sport_resultimg.PNG)
+[result2]: https://github.com/20-2-SKKU-OSS/2020-2-OSS-11/blob/gh-pages/_img/sport_resultimg.PNG
 
+
+다음 링크들과 같이 
