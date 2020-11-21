@@ -19,12 +19,15 @@ open source software
 category_name: 정치, 경제, 사회, 생활문화, IT과학, 세계, 오피니언 or politics, economy, society, living_culture, IT_science, world, opinion
 
 set_date_range(startyear, startmonth, endyear, endmonth)
+
 이 메서드는 수집하려고자 하는 뉴스의 기간을 의미합니다. 기본적으로 startmonth월부터 endmonth월까지 데이터를 수집합니다.
 
 start()
+
 이 메서드는 크롤링 실행 메서드입니다.
 
 예시
+
 ```phython
 from korea_news_crawler.articlecrawler import ArticleCrawler
 
