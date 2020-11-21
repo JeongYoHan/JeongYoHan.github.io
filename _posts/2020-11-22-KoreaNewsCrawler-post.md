@@ -37,8 +37,8 @@ Crawler.start()
  실행 결과
 
 
-![article_result]https://github.com/20-2-SKKU-OSS/2020-2-OSS-11/blob/gh-pages/_img/article_result.PNG
+![github]https://github.com/20-2-SKKU-OSS/2020-2-OSS-11/blob/gh-pages/_img/article_result.PNG
 
 
-![sport_resultimg]https://github.com/20-2-SKKU-OSS/2020-2-OSS-11/blob/gh-pages/_img/sport_resultimg.PNG
+![github]https://github.com/20-2-SKKU-OSS/2020-2-OSS-11/blob/gh-pages/_img/sport_resultimg.PNG
 
